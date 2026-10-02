@@ -44,7 +44,7 @@ The ETL data transformation workflow was built using the following key nodes:
 ## Dashboard Structure & Features
 
 ### Page 1: Executive Overview & Segment Distribution
-* **Executive Metrics:** Total Revenue ($15,048), Total Customers (400), Total Transactions (1,221), and Average Spend per Customer ($37.62).
+* **Executive Metrics:** Total Revenue ($15,048), Total Customers (400), Total Transactions (1,221), and Average Spend per Customer ($15.04).
 * **Segment Share (Pie Chart):** Distribution of subscribers across 7 behavioral buckets.
 * **Top Revenue Generators:** Stacked bar breakdown identifying revenue volume by segment.
 

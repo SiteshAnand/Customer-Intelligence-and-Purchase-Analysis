@@ -7,7 +7,7 @@
 ## Executive Summary
 This project delivers an end-to-end Customer Intelligence framework for an E-Commerce Subscription platform. By combining automated data processing in **KNIME Analytics Platform** with interactive modeling in **Power BI**, the project analyzes customer transaction logs to segment subscribers based on **Recency, Frequency, and Monetary (RFM)** behavior. 
 
-The dashboard enables business stakeholders to reduce churn, target high-potential customers, and optimize promotional budgets across 400 analyzed accounts generating $15.05K in total revenue over 1,221 transactions.
+The dashboard enables business stakeholders to reduce churn, target high-potential customers, and optimize promotional budgets across 400 analyzed accounts generating $6.02K in total revenue over 1,221 transactions.
 
 ---
 
@@ -44,7 +44,7 @@ The ETL data transformation workflow was built using the following key nodes:
 ## Dashboard Structure & Features
 
 ### Page 1: Executive Overview & Segment Distribution
-* **Executive Metrics:** Total Revenue ($15,048), Total Customers (400), Total Transactions (1,221), and Average Spend per Customer ($15.04).
+* **Executive Metrics:** Total Revenue ($6.02), Total Customers (400), Total Transactions (1,221), and Average Spend per Customer ($15.04).
 * **Segment Share (Pie Chart):** Distribution of subscribers across 7 behavioral buckets.
 * **Top Revenue Generators:** Stacked bar breakdown identifying revenue volume by segment.
 

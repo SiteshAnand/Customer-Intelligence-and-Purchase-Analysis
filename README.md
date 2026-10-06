@@ -248,10 +248,11 @@ Customer-Analytics-Portfolio
 │   └── README.md
 │
 ├── 📁 Market-Basket-Analysis
-│   ├── Analysis Files
-│   ├── Transaction Data
+│   ├── Analysis Files.PDF
+│   ├── Transaction Data.CSC
+|   ├── Output File.XLS
 │   └── README.md
-│
+│   ├── KNIME Workfloww.PNG
 └── README.md
 ```
 
